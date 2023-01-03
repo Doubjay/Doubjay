@@ -18,6 +18,7 @@
 -   Pdf to Word Conversion
 -   Image to Text
 -   Pdf Table to Excel
+-   Merging of Pdf Document
 -   Data Cleaning E.T.C.
 
 
